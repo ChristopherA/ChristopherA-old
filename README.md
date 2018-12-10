@@ -1,6 +1,6 @@
-# info
+# Christopher Allen's (@ChristopherA) Info
 
-Website for [Christopher Allen](https://ChristopherA.info)
+Information about [Christopher Allen](https://ChristopherA.info)
 
 <ul>
   <li><a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA on Twitter</a></li>
