@@ -1,5 +1,5 @@
 <img class="avatar" alt="@ChristopherA's Avatar" src="https://github.com/ChristopherA.png?v=3&s=256" width="128" height="128" />
-<span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+<span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span></br>
 <span class="p-nickname vcard-username d-block" itemprop="additionalName">@ChristopherA</span>
 
 **Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
