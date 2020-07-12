@@ -1,6 +1,6 @@
-## Information on Christopher Allen ([@ChristopherA](https://ChristopherA.info))
+## Information About Christopher Allen ([@ChristopherA](https://ChristopherA.info))
 
-<img class="avatar" alt="@ChristopherA's Avatar" src="https://github.com/ChristopherA.png?v=3&s=127" width="64" height="64" />
+<img class="avatar" alt="@ChristopherA's Avatar" src="https://github.com/ChristopherA.png?v=3&s=256" width="128" height="128" />
 
 **Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
 
