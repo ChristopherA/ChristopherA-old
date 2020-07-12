@@ -19,6 +19,6 @@ Want to know what I'm up to? What I'm doing elsewhere?
 
 Do you have ideas, suggestions, or constructive criticism for me?
 
-[Here](http://www.Github.com/self] is a good place where you can best communicate with me.
+[Here](http://www.Github.com/self) is a good place where you can best communicate with me.
 
 
