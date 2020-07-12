@@ -8,7 +8,7 @@
   * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA <img src="https://img.shields.io/twitter/follow/ChristopherA?label=Follow&style=social" alt="Follow"></a>
   * Github: <a href="https://github.com/ChristopherA" rel="me">@ChristopherA</a> <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=Follow&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
   * Open Source: [Blockchain Commons](https://www.BlockchainCommons.com) <a href="https://github.com/BlockchainCommons"><img src="https://img.shields.io/badge/GitHub_Community--Github?style=social&logo=github" alt="GitHub"></a> <a href="https://github.com/sponsors/BlockchainCommons"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
-  * Blog: <a href="https://LifeWithAlacrity.com" rel="me">Life With Alacrity</a>
+  * Blog: <a href="https://LifeWithAlacrity.com" rel="me">Life With Alacrity</a> <a href="http://www.lifewithalacrity.com/index.xml" type="application/rss+xml" title="Life With Alacrity"> <img src="https://img.shields.io/badge/email--email?logo=rss&style=social&logoColor=ffa500" alt="RSS"> </a>
   * Book: [#SmartCustody: The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets](https://www.SmartCustody.com)
   * LinkedIn Profile: <a href="https://LinkedIn.com/in/ChristopherA" rel="me">@ChristopherA</a>
  
