@@ -16,7 +16,7 @@
   * Website: [Dyvers Hands Productions](https://www.dyvershands.com)
 
 ### Personal, Family
-  * Email: <a href="mailto:ChristopherA@gmail.com" rel="me">ChristopherA@gmail.comt</a>
+  * Email: <a href="mailto:ChristopherA@gmail.com" rel="me">ChristopherA@gmail.com</a>
 
 ## Are you collaborating with me?
 
