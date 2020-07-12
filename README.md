@@ -3,7 +3,7 @@
 **Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
 
 ### Professional
-  * Email: <a href="mailto:ChristopherA@LifeWithAlacrity.com" rel="me">ChristopherA@LifeWithAlacrity.com <img src="https://img.shields.io/badge/email--email?logo=mail.ru&style=social&link&logoColor=000000?link=mailto%3AChristopherA@LifeWithAlacrity.com" alt="Email"></a>
+  * Email: <a href="mailto:ChristopherA@LifeWithAlacrity.com" rel="me">ChristopherA@LifeWithAlacrity.com</a> <img src="https://img.shields.io/badge/email--email?logo=mail.ru&style=social&link&logoColor=000000?link=mailto%3AChristopherA@LifeWithAlacrity.com" alt="Email">
    * PGP/GPG Key: <a href rel="pgpkey" href="https://github.com/christophera.gpg">FDFE14A5…357405ED <img src="https://img.shields.io/badge/PGP_key--PGP_key?logo=protonmail&style=social&logoColor=000000" alt="PGP/GPG Key"></a>
   * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA <img src="https://img.shields.io/twitter/follow/ChristopherA?label=Follow&style=social" alt="Follow"></a>
   * Github: <a href="https://github.com/ChristopherA" rel="me">@ChristopherA</a> <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=Follow&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
