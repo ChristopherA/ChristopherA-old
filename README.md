@@ -3,7 +3,7 @@
 **Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
 
 ### Professional
-  * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA<img src="https://img.shields.io/twitter/url?style=twitter&url=ChristopherA" alt="Twitter"> <img src="https://img.shields.io/twitter/follow/ChristopherA?label=Follow&style=social" alt="Follow"></a>
+  * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA <img src="https://img.shields.io/twitter/url?style=social&url=ChristopherA" alt="Twitter"> <img src="https://img.shields.io/twitter/follow/ChristopherA?label=Follow&style=social" alt="Follow"></a>
   * Github: <a href="https://github.com/ChristopherA" rel="me">@ChristopherA</a> <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=GitHub&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
   * Email: <a href="mailto:ChristopherA@LifeWithAlacrity.com" rel="me">ChristopherA@LifeWithAlacrity.com</a>
   * Website: [Blockchain Commons, LLC](https://www.BlockchainCommons.com)
