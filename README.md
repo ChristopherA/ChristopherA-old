@@ -1,5 +1,7 @@
 ## Information about Christopher Allen ([@ChristopherA](https://ChristopherA.info))
 
+**Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
+
 ### Professional
   * Email: <a href="mailto:ChristopherA@LifeWithAlacrity.com" rel="me">ChristopherA@LifeWithAlacrity.com</a>
   * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA</a>
