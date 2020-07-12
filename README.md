@@ -1,6 +1,27 @@
 <img class="avatar" alt="@ChristopherA's Avatar" src="https://github.com/ChristopherA.png?v=3&s=256" width="128" height="128" />
-<span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span></br>
-<span class="p-nickname vcard-username d-block" itemprop="additionalName">@ChristopherA</span>
+
+<div class="vcard-names-container float-left col-10 col-md-12 pt-1 pt-md-3 pb-1 pb-md-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: static;">
+    <h1 class="vcard-names pl-2 pl-md-0">
+      <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+      <span class="p-nickname vcard-username d-block" itemprop="additionalName">ChristopherA</span>
+    </h1>
+  </div>
+<h1 class="vcard-names pl-2 pl-md-0">
+      <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+      <span class="p-nickname vcard-username d-block" itemprop="additionalName">ChristopherA</span>
+    </h1>
+<span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+<span class="p-nickname vcard-username d-block" itemprop="additionalName">ChristopherA</span>
+<h1 class="vcard-names pl-2 pl-md-0">
+      <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+      <span class="p-nickname vcard-username d-block" itemprop="additionalName">ChristopherA</span>
+    </h1>
+<div class="vcard-names-container float-left col-10 col-md-12 pt-1 pt-md-3 pb-1 pb-md-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: static;">
+    <h1 class="vcard-names pl-2 pl-md-0">
+      <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">Christopher Allen</span>
+      <span class="p-nickname vcard-username d-block" itemprop="additionalName">ChristopherA</span>
+    </h1>
+  </div>
 
 **Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns**
 
