@@ -8,7 +8,7 @@
   * Twitter: <a href="https://twitter.com/ChristopherA" rel="me">@ChristopherA</a>
   * Github: <a href="https://github.com/ChristopherA" rel="me">@ChristopherA</a>
   * Blog: <a href="https://LifeWithAlacrity.com" rel="me">Life With Alacrity</a>
-  * Book: [#SmartCustody: The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets](https://www.SmartCustody.com]
+  * Book: [#SmartCustody: The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets](https://www.SmartCustody.com)
   * LinkedIn Profile: <a href="https://LinkedIn.com/in/ChristopherA" rel="me">@ChristopherA</a>
   * PGP Key: <a href rel="pgpkey" href="https://github.com/christophera.gpg">FDFE14A5…357405ED</a>
 
