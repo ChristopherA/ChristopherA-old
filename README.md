@@ -11,7 +11,10 @@
 <p align="center">
 <img src="https://i.imgur.com/QyDl5nK.png" width="64" height="64"></p>
 
-Most of my recent work is located in the [Blockchain Commons](https://github.com/BlockchainCommons/) GitHub community. 
+You can find most of my recent work at [Blockchain Commons](https://www.BlockchainCommons.com), notably:
+    * My [Musings of a Trust Architect](https://www.blockchaincommons.com/musings/)
+    • Principal Architect of our [Developer Tools](https://developer.blockchaincommons.com)
+    * Most of my recent work is hosted in the [Blockchain Commons](https://github.com/BlockchainCommons/) GitHub community, or in my [personal](https://github.com/ChristopherA).
 
 Want to collaborate with me? [Here](https://github.com/christophera/self) is the best place to learn how to best communicate your ideas, suggestions, or constructive criticism to me, or propose a collaboration.
 
