@@ -9,7 +9,7 @@
 <a href="https://twitter.com/ChristopherA" rel="me"> <img src="https://img.shields.io/twitter/follow/ChristopherA?label=@ChristopherA&style=social" alt="Twitter @ChristopherA"></a> <a href="mailto:ChristopherA@LifeWithAlacrity.com"><img src="https://img.shields.io/badge/email--email?logo=mail.ru&style=social&link&logoColor=000000?link=mailto%3AChristopherA@LifeWithAlacrity.com?link=mailto%3AChristopherA@LifeWithAlacrity.com" alt="Email"></a> <a rel="pgpkey" href="https://github.com/christophera.gpg"><img src="https://img.shields.io/badge/PGP_key--PGP_key?logo=protonmail&style=social&logoColor=000000?link=https%3A%2F%2Fgithub.com%2Fchristophera.gpg?link=https%3A%2F%2Fgithub.com%2Fchristophera.gpg" alt="PGP/GPG Key"></a> 
 
 <p align="center">
-<img src="https://i.imgur.com/QyDl5nK.png" width="64" height="64"></p>
+<img src="https://i.imgur.com/QyDl5nK.png" width="96" height="96"></p>
 
 You can find most of my recent professional work at [Blockchain Commons](https://www.BlockchainCommons.com), notably:
 * My [Musings of a Trust Architect](https://www.blockchaincommons.com/musings/)
