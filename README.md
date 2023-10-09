@@ -13,7 +13,7 @@
 You can find most of my recent professional work at [Blockchain Commons](https://www.BlockchainCommons.com), notably:
 * My [Musings of a Trust Architect](https://www.blockchaincommons.com/musings/)
 * Principal Architect of our [Developer Tools](https://developer.blockchaincommons.com)
-* All of this hosted in the [Blockchain Commons](https://github.com/BlockchainCommons/) GitHub community, or in my [personal](https://github.com/ChristopherA).
+* All of this hosted in the [Blockchain Commons](https://github.com/BlockchainCommons/) GitHub community, or in my [personal repo](https://github.com/ChristopherA).
 
 Want to collaborate with me? [Here](https://github.com/christophera/self) is the best place to learn how to best communicate your ideas, suggestions, or constructive criticism to me, or propose a collaboration.
 
