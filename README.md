@@ -12,7 +12,8 @@
 
 You can find most of my recent professional work at [Blockchain Commons](https://www.BlockchainCommons.com), notably:
 
-<img src="https://i.imgur.com/QyDl5nK.png" width="96" height="96">{: style="float:left; padding:32px"}
+<img src="https://i.imgur.com/QyDl5nK.png" width="96" height="96">
+{: style="float:left; padding:32px"}
   * My [Musings of a Trust Architect](https://www.blockchaincommons.com/musings/)
   * Principal Architect of our [Developer Tools](https://developer.blockchaincommons.com)
   * All of this hosted in the [Blockchain Commons](https://github.com/BlockchainCommons/) GitHub community, or in my [personal repo](https://github.com/ChristopherA).
